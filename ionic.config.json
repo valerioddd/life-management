@@ -1,0 +1,7 @@
+{
+  "name": "life-management",
+  "integrations": {},
+  "type": "angular",
+  "host": "localhost",
+  "port": "8100"
+}
